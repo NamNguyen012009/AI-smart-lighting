@@ -15,8 +15,8 @@
 
 | 类别 | 名称 / 技术方案  |
 | :--- | :--- |
-| **编程语言 ** | Python |
-| **AI 与视觉算法 ** | OpenCV / YOLO |
-| **主控芯片 ** | PC / Laptop + ESP32 |
-| **执行机构 ** | 5V 1-Channel Relay Module with Optocoupler Isolation |
-| **开发环境 ** | VS Code, Git & GitHub |
+| **编程语言** | Python |
+| **AI 与视觉算法** | OpenCV / YOLO |
+| **主控芯片** | PC / Laptop + ESP32 |
+| **执行机构** | 5V 1-Channel Relay Module with Optocoupler Isolation |
+| **开发环境** | VS Code, Git & GitHub |
