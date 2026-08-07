@@ -1,22 +1,22 @@
 # AI-Based Smart Lighting System Using Computer Vision
 > 基于计算机视觉的 AI 智能照明系统
 
-## 1. 项目背景与问题陈述 (Project Background & Problem Statement)
+## 1. 项目背景与问题陈述 
 在传统照明系统中，常因无人状态下灯具保持开启而造成电能浪费。本项目旨在设计并构建一套基于 AI 视觉与人体检测的智能控制系统。系统通过摄像头实时采集图像，利用计算机视觉算法精准识别人员存在状态，并据此实现灯具的自动开关与智能调控，从而达到高效节能的目的。
 
-## 2. 项目目标 (Project Objectives)
+## 2. 项目目标 
 * 构建基于 AI 视觉与人体检测的智能照明控制系统。
-* 实现根据人员存在状态 (Human Presence) 自动控制灯具开关与亮度。
+* 实现根据人员存在状态自动控制灯具开关与亮度。
 
-## 3. 系统工作原理与流程 (System Architecture & Workflow)
+## 3. 系统工作原理与流程 
 `摄像头采集` ➔ `AI 人体检测` ➔ `主控逻辑判断` ➔ `继电器控制` ➔ `灯具开关/调光`
 
-## 4. 软硬件选型与技术路线 (Tech Stack & Components)
+## 4. 软硬件选型与技术路线 
 
-| 类别 (Category) | 名称 / 技术方案 (Specification) |
+| 类别 | 名称 / 技术方案  |
 | :--- | :--- |
-| **编程语言 (Language)** | Python |
-| **AI 与视觉算法 (CV Framework)** | OpenCV / YOLO |
-| **主控芯片 (Controller)** | PC / Laptop + ESP32 |
-| **执行机构 (Actuator)** | 5V 1-Channel Relay Module with Optocoupler Isolation |
-| **开发环境 (Tools)** | VS Code, Git & GitHub |
+| **编程语言 ** | Python |
+| **AI 与视觉算法 ** | OpenCV / YOLO |
+| **主控芯片 ** | PC / Laptop + ESP32 |
+| **执行机构 ** | 5V 1-Channel Relay Module with Optocoupler Isolation |
+| **开发环境 ** | VS Code, Git & GitHub |
