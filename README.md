@@ -40,7 +40,7 @@
 | **AI 与识别算法**    | 语音识别 / 关键词识别                                         |
 | **主控芯片**        | PC / Laptop + ESP32                                  |
 | **声音采集设备**      | 麦克风                                                  |
-| **执行机构**        | 5V 1-Channel Relay Module with Optocoupler Isolation |
+| **执行机构**        | 5V 4-Channel Relay Module with Optocoupler Isolation |
 | **开发环境**        | VS Code, Git & GitHub                                |
 
 ## 5. 基于语音识别与 AI 的智能照明系统
